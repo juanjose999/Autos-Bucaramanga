@@ -92,7 +92,7 @@ a {
 main .circle{
     width: 23em;
     height: 6em;
-    background: rgb(61, 59, 59);
+    background: var(--bg-principal);
     border-radius: 100%;
     margin-top: -13em;
     border-right: 2px rgb(175, 174, 174) solid;
